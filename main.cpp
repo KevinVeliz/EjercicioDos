@@ -8,7 +8,7 @@ using namespace std;
   
 double division (double ,double);  
 
-
+//FUNCION PRINCIPAL
 int main()
 {
    int a,b; 
